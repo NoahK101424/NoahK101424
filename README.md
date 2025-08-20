@@ -1,7 +1,6 @@
 ## Hi there 👋
-Name: Noah Kim (he/him)
--m
-I have taken ECS, Programming I, and AP CSA at Lane tech so far, but this is my first time using git and github! Some hobbies I have are playing video games, reading, or hanging out with my friends. 
+Name: Noah Kim (he/him) -- 
+I have taken ECS, Programming I, and AP CSA at Lane tech so far, but this is my first time using github! Some hobbies I have are playing video games, reading, or hanging out with my friends. 
 <!--
 **NoahK101424/NoahK101424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
