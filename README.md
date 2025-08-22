@@ -10,8 +10,11 @@ I have taken ECS, Programming I, and AP CSA at Lane tech so far, but this is my 
 
 
 
-
-
+ - 🔭 currently working on my college apps (help)
+ - 🌱 currently learning about AI through my intro to AI class
+ - 🤔 I'm looking for help with internships and work opportunities!
+ - 💬 Ask me about anything! I'm always happy to help (although I can't help with much)
+ - ⚡ Fun Fact: There were active volcanoes on the moon when dinosaurs were alive.
 
 <!--
 **NoahK101424/NoahK101424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
