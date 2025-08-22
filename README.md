@@ -6,7 +6,7 @@ I have taken ECS, Programming I, and AP CSA at Lane tech so far, but this is my 
   <img width="788" height="254" alt="image" src="https://github.com/user-attachments/assets/1b68bb0e-588d-4e20-8954-b5ffd4ff73a3" />
 </p>
 
-(https://github.com/user-attachments/assets/f4fc0308-6249-49e3-8b23-436b1ead0ee5)
+![WIN_20250822_10_09_30_Pro](img width="300" height="150" src="https://github.com/user-attachments/assets/f4fc0308-6249-49e3-8b23-436b1ead0ee5")
 ![WIN_20250822_10_09_26_Pro](https://github.com/user-attachments/assets/2d8bb1f3-ec22-4bf3-b9d5-0efe5416fa03)
 
 
