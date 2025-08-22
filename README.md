@@ -1,9 +1,6 @@
 ## Hi there 👋
 Name: Noah Kim (he/him) -- 
 I have taken ECS, Programming I, and AP CSA at Lane tech so far, but this is my first time using github! Some hobbies I have are playing video games, reading, or hanging out with my friends. I hope to learn a lot more about AI and computer science in the days to come!
-
-![alt text]
-
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/02688b4b-147b-4552-abab-3aef7353f2dc" />
 
 <!--
