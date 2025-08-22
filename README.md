@@ -4,7 +4,9 @@ I have taken ECS, Programming I, and AP CSA at Lane tech so far, but this is my 
 
 ![WIN_20250822_10_09_30_Pro](https://github.com/user-attachments/assets/f4fc0308-6249-49e3-8b23-436b1ead0ee5)
 
+<p align="center">
 ![baby-cat-dancing-png](https://github.com/user-attachments/assets/19c7b49c-01a4-496c-bd8d-550d8a6b21bb)
+</p>
 
 
 
