@@ -6,6 +6,9 @@ I have taken ECS, Programming I, and AP CSA at Lane tech so far, but this is my 
   <img width="788" height="254" alt="image" src="https://github.com/user-attachments/assets/1b68bb0e-588d-4e20-8954-b5ffd4ff73a3" />
 </p>
 
+![WIN_20250822_10_09_30_Pro](https://github.com/user-attachments/assets/f4fc0308-6249-49e3-8b23-436b1ead0ee5)
+
+
 <!--
 **NoahK101424/NoahK101424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
